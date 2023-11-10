@@ -39,6 +39,7 @@ namespace game
         static void Setup()
         {
             // Your one-time setup code here
+            Console.WriteLine("Hi! I like animation!");
         }
 
         static void Update()
